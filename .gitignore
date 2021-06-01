@@ -27,3 +27,5 @@ node_modules/
 .test/
 .solution
 cl/
+# Local Netlify folder
+.netlify
